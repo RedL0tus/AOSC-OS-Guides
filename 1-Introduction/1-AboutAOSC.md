@@ -13,7 +13,7 @@ AOSC 全称为 Anthon Open Source Community ~~(其实是 Always Overuse Shell Co
 
 AOSC 成立于 2010 年，最初只有三个成员。~~（当年的果冻十分可爱）（← \* 里 \* 气的）~~
 
-核心成员有 Mingcong Bai (人称特首~~或是果冻~~)（~~\\\ 果冻 ///~~）, Icenowy Zheng (大姐姐), Mingye Wang（A2) 等。
+核心成员有 Mingcong Bai (人称特首~~或是果冻~~)（~~\\\ 果冻 ///~~）, Icenowy Zheng (大姐姐), Mingye Wang（A2), Junde Yhi（\\\ ~~小可爱~~以俊德 ///）等。
 
 具体的的成员/贡献者信息可以在 https://aosc.io/people 找到。
 
