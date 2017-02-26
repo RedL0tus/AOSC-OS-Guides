@@ -52,7 +52,7 @@ AOSC 的焦油球们分为 KDE, GNOME, XFce, Mate, Cinnamon, LXDE, Base, BuildKi
 - **MIPS32**： 提供给 MIPS 32 架构的系统。（主要为龙芯/Loongson）
 - **PowerPC 32-Bit (BE)**：提供给使用 PPC32 **大端序（Big-Endian）**架构的系统使用。
 - **PowerPC 64-Bit (BE)**：提供给使用 PPC64 **大端序（Big-Endian）**架构的系统使用。
-- MIPS64 的移植还在进行中
+- MIPS64 的移植还在进行中（Update 2017-02-26：MIPS64el 移植已经完成了 Base 级别的构建，详情见新浪微博 [@安同开源](http://weibo.com/anthondev) ）
 - 有对 RISC-V 架构移植的计划，不过自然是要等有 RISC-V 架构的机器上市。
 
 **注意： ARM 架构的由于它们的特殊情况，还需要选择设备的 SoC 厂商及具体型号。**  
