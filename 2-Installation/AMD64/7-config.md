@@ -52,7 +52,7 @@ root@ipsum [ / ] #
 `fstab` 是个配置文件，储存于 `/etc/fstab`，用于在启动的时候告诉 `mount` 哪些分区是需要自动挂载的。
 在后面会详细介绍如何写 `fstab`，现在可以直接使用 `genfstab` 命令生成 `fstab`。
 ```
-genfstab -U / >> /mnt/etc/fstab
+genfstab -U -p / >> /etc/fstab
 ```
 
 #### 生成 initramfs
