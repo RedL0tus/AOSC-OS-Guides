@@ -11,6 +11,9 @@
   * [准备 Live 环境（可选）](2-Installation/3-live.md)
   + [AMD64](2-Installation/AMD64/README.md)  
     * [分区](2-Installation/AMD64/4-PrepareDisk.md)
+    * [挂载](2-Installation/AMD64/5-Mount.md)
+    * [解压焦油球](2-Installation/AMD64/6-untar.md)
+    * [基本配置](2-Installation/AMD64/7-config.md)
 
 -----
 ### 未完待续
