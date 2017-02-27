@@ -29,9 +29,9 @@ AOSC 的 tarball 为使用 `GNUtar` 打包并以 `xz` 格式压缩后的系统�
 
 打开 https://aosc.io/ ，在右上角有个巨大的 `GET AOSC OS` ~~（跟果冻进行交♂易）~~
 
-![GET AOSC OS](https://github.com/RedL0tus/AOSC-OS-Guides/raw/master/img/GetAOSCOS.png)  
+![GET AOSC OS](../img/GetAOSCOS.png)  
 然后我们可以看到有很多选项。
-![Download Options](https://github.com/RedL0tus/AOSC-OS-Guides/raw/master/img/DownloadOptions.png)
+![Download Options](../img/DownloadOptions.png)
 
 首先是焦油球们的类型。
 

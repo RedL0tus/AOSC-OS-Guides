@@ -1,6 +1,6 @@
 ### 什么是 AOSC  
 
-![AOSC Logo](https://github.com/RedL0tus/AOSC-OS-Guides/raw/master/img/AOSCLogo.png)
+![AOSC Logo](../img/AOSCLogo.png)
 AOSC 全称为 Anthon Open Source Community ~~(其实是 Always Overuse Shell Community)~~  
 中文名为 安同开源社区  
 官方门户为 https://aosc.io/

@@ -1,6 +1,6 @@
 ### AOSC OS 又是什么?
 
-![AOSC OS 4 Logo](https://github.com/RedL0tus/AOSC-OS-Guides/raw/master/img/OS4Logo.png)
+![AOSC OS 4 Logo](../img/OS4Logo.png)
 
 AOSC OS 是一个由 AOSC 维护的 Linux 发行版。
 
