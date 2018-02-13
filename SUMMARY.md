@@ -12,12 +12,12 @@
   * [下载 tarball](2-Installation/2-Get_tarball.md)
   * [准备 Live 环境（可选）](2-Installation/3-live.md)
   * [AMD64](2-Installation/AMD64/README.md)
-    * [分区](2-Installation/AMD64/4-PrepareDisk.md)
-    * [挂载](2-Installation/AMD64/5-Mount.md)
-    * [解压 tarball](2-Installation/AMD64/6-untar.md)
-    * [基本配置](2-Installation/AMD64/7-config.md)
-    * [配置引导器](//2-Installation/AMD64/8-bootloader.md)
-  * [添加用户](/2-Installation/9-add-user.md)
+    * [分区](2-Installation/AMD64/1-PrepareDisk.md)
+    * [挂载](2-Installation/AMD64/2-Mount.md)
+    * [解压 tarball](2-Installation/AMD64/3-untar.md)
+    * [基本配置](2-Installation/AMD64/4-config.md)
+    * [配置引导器](/2-Installation/AMD64/5-bootloader.md)
+  * [添加用户](/2-Installation/4-add-user.md)
   * [最终配置](/2-Installation/5-final-config.md)
 
 ## 未完待续
