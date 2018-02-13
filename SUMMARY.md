@@ -1,5 +1,7 @@
 # Summary
 
+## AOSC OS 指南
+
 * [说明](README.md)
 * [感谢](CREDITS.md)
 * [介绍](1-Introduction/README.md)
@@ -14,7 +16,11 @@
     * [挂载](2-Installation/AMD64/5-Mount.md)
     * [解压 tarball](2-Installation/AMD64/6-untar.md)
     * [基本配置](2-Installation/AMD64/7-config.md)
-    * [配置引导器](2-Installation/AMD64/pei-zhi-yin-dao-qi.md)
+    * [配置引导器](//2-Installation/AMD64/8-bootloader.md)
+  * [添加用户](/2-Installation/9-add-user.md)
+  * [最终配置](/2-Installation/5-final-config.md)
 
 ## 未完待续
+
+
 
