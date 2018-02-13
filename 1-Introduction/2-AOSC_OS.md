@@ -18,7 +18,9 @@ AOSC OS 使用 [`dpkg`](https://wiki.debian.org/dpkg) + [`apt`](https://wiki.deb
 在易用性上有些许改善。  
 ~~大概是最适合 Wine 跑 Galgame 的 Linux 发行版~~
 
-为 AMD64\(x86\_64\)，ARM\(ARMv7,ARMv8,AArch64\),PowerPC\(PPC32BE,PPC64BE\)（由于没有小端序的设备所以仅支持大端序），MIPS（32/64）（主要是 Loongson） 等架构提供支持（有计划为 RISC-V 提供支持）。
+为 AMD64\(x86\_64\)，ARM\(ARMv7, ARMv8, AArch64\),PowerPC\(PPC32BE, PPC64BE\)\(由于没有小端序的设备所以仅支持大端序\)，MIPS\(32/64\) \(主要是 Loongson\) 等架构提供支持，并且有计划为 RISC-V 架构提供支持。
+
+本文仅仅讨论 AMD64 架构。
 
 同时也有（还处于开发阶段的） WSAOSC，为 Windows 10 的 Windows Subsystem Linux 进行适配。
 
