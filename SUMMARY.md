@@ -14,6 +14,7 @@
     * [挂载](2-Installation/AMD64/5-Mount.md)
     * [解压 tarball](2-Installation/AMD64/6-untar.md)
     * [基本配置](2-Installation/AMD64/7-config.md)
+    * [配置引导器](2-Installation/AMD64/pei-zhi-yin-dao-qi.md)
 
 ## 未完待续
 
